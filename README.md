@@ -1,4 +1,4 @@
 sandbox
 =======
 
-For practice
+This is the test repository.
